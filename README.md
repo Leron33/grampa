@@ -11,6 +11,7 @@ This repository contains a MATLAB implementation of the graph matching method de
 
 **grampa.m** contains the matlab code for GRAMPA.
 
+<p align="center"> Visualization of matching 3-D deformable shapes by GRAMPA </p>
 <p align="center">
-<img src="https://github.com/xjmoffside/grampa/blob/master/grampakids.png" title="Visualization of matching 3-D deformable shapes by GRAMPA" width="400">
+<img src="https://github.com/xjmoffside/grampa/blob/master/grampakids.png" width="400">
 </p>
