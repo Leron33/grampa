@@ -1,5 +1,6 @@
 This folder contains code to evaluate correspondences on the TOPKIDS dataset using GRAMPA method. 
-The complete TOPKIDS dataset can be downloaded on vision.in.tum.de/~laehner/shrec16/
+The complete TOPKIDS dataset can be downloaded on vision.in.tum.de/~laehner/shrec16/.
+See Section 3.3 in the paper https://proceedings.icml.cc/static/paper_files/icml/2020/1778-Paper.pdf for details.
 
 1. Use shrec_grampa.m to calculate the geodesic error of gramps for matching kid shape i to shape j.
 
