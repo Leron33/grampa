@@ -8,3 +8,5 @@ This repository contains a MATLAB implementation of the graph matching method de
 **GRAMPA_comparison** folder contains the code to compare GRAMPA with the existing graph matching methods. 
 
 **GRAMPA_rec** folder contains the code to evaluate the performance of GRAMPA on Shrec computer vision dataset.
+
+**grampa.m** contains the matlab code for GRAMPA.
